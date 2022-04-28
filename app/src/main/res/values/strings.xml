@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="zipcode_label">Zipcode</string>
+    <string name="zipcode_hint">Enter your zipcode</string>
+    <string name="zipcode_submit">Submit</string>
+
+    
+</resources>
